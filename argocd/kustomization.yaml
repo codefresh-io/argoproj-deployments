@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.1.15-cap-CR-process-non-root-app-2885cee0
+  newTag: 2.1.15-cap-CR-process-non-root-app-0a3b9127
