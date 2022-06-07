@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.3.4-cap-CR-report-app-event-bc6ce95d
+  newTag: 2.3.4-cap-CR-12110-helm-resources-yaml-16ac89eb
