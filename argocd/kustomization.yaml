@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.3.4-cap-CR-12409-resource-manifest-revision-1110bfbb
+  newTag: 2.3.4-cap-CR-limit-delivery-incluster-f5233a08
