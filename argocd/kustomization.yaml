@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.3.4-cap-CR-limit-delivery-incluster-a5c89747
+  newTag: 2.3.4-cap-CR-report-errors-b06c84cc
