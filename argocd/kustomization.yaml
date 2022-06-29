@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.3.4-cap-CR-report-condition-errors-df144e7c
+  newTag: 2.3.4-cap-CR-12409-history-commit-details-8ab3255d
