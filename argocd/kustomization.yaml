@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.3.4-cap-CR-12256-fix-res-cache-key-57875502
+  newTag: 2.3.4-cap-CR-13327-bump-ubuntu-version-c66810b7
