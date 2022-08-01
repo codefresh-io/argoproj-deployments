@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.3.4-cap-CR-13451-change-redis-from-docker-500ce1b0
+  newTag: 2.3.4-cap-CR-13459-change-haproxy-to-quay-d156f7fc
