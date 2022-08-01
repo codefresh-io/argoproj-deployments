@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.3.4-cap-CR-13082-improve-validation-e5bf9692
+  newTag: 2.3.4-cap-CR-12372-fix-split-err-9cea6c1f
