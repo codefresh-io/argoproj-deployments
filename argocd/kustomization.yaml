@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.3.4-cap-CR-13995-up-max-pods-limit-6aa1fcaf
+  newTag: 2.3.4-cap-CR-13681-fix-primitive-res-finishedat-96798800
