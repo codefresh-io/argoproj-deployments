@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.3.4-cap-CR-14605-default-operation-revision-64c034e1
+  newTag: 2.3.4-cap-CR-fix-helm-application-ec314b32
