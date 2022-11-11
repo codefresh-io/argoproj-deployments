@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.4.15-cap-CR-14605-fix-path-2d8bdc19
+  newTag: 2.3.4-cap-CR-15028-sync-result-resources-errors-2-e21011de
