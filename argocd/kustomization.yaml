@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.4.15-cap-CR-15658-child-app-deletion-107b950c
+  newTag: 2.4.15-cap-CR-15658-sync-result-message-10e9eba4
