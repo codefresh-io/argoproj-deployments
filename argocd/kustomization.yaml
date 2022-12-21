@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.5.5-cap-CR-15658-sync-result-message-629b0e37
+  newTag: 2.5.5-cap-CR-15658-sync-result-message-5e16c754
