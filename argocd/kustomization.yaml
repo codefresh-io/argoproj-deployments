@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.4.15-cap-CR-16709-init-app-proxy-a6711314
+  newTag: 2.4.15-cap-CR-16709-init-app-proxy-074110a0
