@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.6.0-cap-CR-fix-rollout-rollback-99978da3
+  newTag: 2.6.0-cap-CR-17237-5283b58f
