@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.8.1-cap-CR-app-version7-f809bd19
+  newTag: 2.8.1-cap-CR-app-versions-5173f244
