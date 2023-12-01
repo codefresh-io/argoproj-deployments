@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.8.1-cap-CR-21281-priority-queue-a2539e3e
+  newTag: 2.8.1-cap-CR-21281-priority-queue-fd1c1ca4
