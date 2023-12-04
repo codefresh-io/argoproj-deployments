@@ -27,4 +27,4 @@ namespace: argocd
 images:
 - name: quay.io/argoproj/argocd
   newName: ghcr.io/codefresh-io/argocd
-  newTag: 2.8.1-cap-CR-rollout-skip-step-fix-03887c9b
+  newTag: 2.9.3-1.0.0-f3cfad7b
